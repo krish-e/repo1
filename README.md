@@ -1,2 +1,3 @@
 # repo1
 jus a beginner repository
+hey this is my 1st repository editings hope u wont mind about this....
